@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-**andrika33/andrika33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I'm currently working at KLAR as a fullstack enginer.
-- 🌱 I'm currently learning about data analysis and software development.
-- 👯 I'm looking to collaborate on projects related to data processing and statistical modeling.
-
-
 <!--
 **andrika33/andrika33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
