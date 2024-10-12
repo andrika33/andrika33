@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Andrika!
 
-<!--
-**andrika33/andrika33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who loves exploring new technologies and finding innovative solutions to complex problems.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, PHP, SQL
+- **Frameworks**: Laravel, React, FastAPI
+- **Databases**: PostgreSQL, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrika33/)
+- 🌐 [Portfolio](https://l1nk.dev/WhEnn)
+- 📧 Email: [anrika@betapunyasolusi.com]
+
+Feel free to reach out if you have any questions or want to collaborate on projects!
+
+Thanks for visiting my profile! 😊
