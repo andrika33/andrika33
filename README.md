@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrika33/)
 - 🌐 [Portfolio](https://l1nk.dev/WhEnn)
-- 📧 Email: [anrika@betapunyasolusi.com]
+- 📧 Email: [andrika@betapunyasolusi.com]
 
 Feel free to reach out if you have any questions or want to collaborate on projects!
 
